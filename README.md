@@ -1,2 +1,2 @@
-"# LEXI-ADAM-Arduino-Shield; this is still a placeholder, the whole project will be uploaded in the near future"
+"# LEXI-ADAM-Arduino-Shield: This is still a placeholder as the design is in progress: the whole project will be uploaded/updated almost on a daily basis until the board is produced"
 
